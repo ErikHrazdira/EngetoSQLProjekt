@@ -1,4 +1,4 @@
-# A Case Study: Analýza vývoje mezd a cen potravin v ČR
+# Vývoj mezd a cen potravin v ČR
 
 ## Shrnutí projektu
 Cílem tohoto projektu bylo analyzovat vývoj průměrných mezd a cen základních potravin v České republice a posoudit jejich vliv na dostupnost potravin (kupní sílu) pro obyvatelstvo. Analýza vychází z veřejně dostupných datových sad a zaměřuje se na porovnání růstových trendů mezd, zdražování potravin a prozkoumání jejich korelace s makroekonomickým ukazatelem HDP.
